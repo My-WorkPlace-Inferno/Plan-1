@@ -1,6 +1,6 @@
 # Simple software provisioning in AWS (Amazon Linux 2)
 
-Here, I have created an instance and provisioned on AWS using Terraform.
+Here, I have created an AL2 instance and deployed nginx on it using Terraform.
 
 
 ```
